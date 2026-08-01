@@ -34,9 +34,5 @@
 </p>
 
 ---
-Kocaeli Üniversitesi Bilişim Sistemleri Mühendisliği 1. sınıf öğrencisi.
+Kocaeli Üniversitesi Bilişim Sistemleri Mühendisliği 2. sınıf öğrencisi.
 
-
-
----
-Dünyanın en iyi Pentester'ı olacak kişinin ReadME'sini okudunuz.
