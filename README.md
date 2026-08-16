@@ -14,7 +14,7 @@
 * 💻 Güncel olarak backend ve LLM'ler üzerine çalışıyorum.
 * 📝 Araştırdığım konular hakkında **Substack** adresimde yazılar yazıyorum.
 
-* 📫 Bana şu adreslerden ulaşabilirsiniz: **artabqos251@gmail.com** · **umuttyalccin@gmail.com**
+* 📫 Bana şu adresten ulaşabilirsiniz: **umuttyalccin@gmail.com**
 
 ---
 
